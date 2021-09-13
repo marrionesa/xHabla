@@ -18,13 +18,13 @@ xHabla - Convierte fácilmente texto a voz v1.0
 ### Descargar 
 Descargar la version para Windows
 ```bash
-https://
+https://github.com/marrionesa/xHabla/releases/download/xNightHabla-win32/xNightHabla.Setup.1.0.0.exe
 
 ```
 
 Descargar la version para Macintosh
 ```bash
-https://
+https://github.com/marrionesa/xHabla/releases/download/xNightHabla-darwin-x64/XNight-Habla-Texto-a-Voz.dmg
 ```
 
 Descargar la version para Linux!
